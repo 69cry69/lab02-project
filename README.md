@@ -410,6 +410,7 @@ git push origin feature-branch
 
 Dmytro — developer
 Це тестова зміна для Git
+docs: test change in README
 
 
 
