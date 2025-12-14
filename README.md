@@ -409,6 +409,8 @@ git push origin feature-branch
 захистити лабораторну перед викладачем.## Team
 
 Dmytro — developer
+Це тестова зміна для Git
+
 
 
 
